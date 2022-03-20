@@ -18,7 +18,7 @@ def generate_doc(language, show, chosen_dir, show_files, textacy_lang):
 
     doc_list = []
     for file1 in show_files:
-        fff = open(f"{chosen_dir}/{file1}", "r")
+        fff = open(f"{chosen_dir}/{file1}", "r", encoding="iso-8859-15")
         episodetxt = fff.read() 
         doc_list.append(episodetxt)
         fff.close()
