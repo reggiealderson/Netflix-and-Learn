@@ -1,0 +1,2305 @@
+﻿1
+00:00:06,130 --> 00:00:07,922
+[Adam] <i>Wo hat alles angefangen?</i>
+
+2
+00:00:10,797 --> 00:00:12,630
+<i>Wo haben die Dinge begonnen?</i>
+
+3
+00:00:15,547 --> 00:00:17,213
+<i>In der Vergangenheit?</i>
+
+4
+00:00:19,380 --> 00:00:20,963
+<i>In der Zukunft?</i>
+
+5
+00:00:22,463 --> 00:00:24,672
+<i>Wer kann sagen, wo der Anfang liegt?</i>
+
+6
+00:00:25,463 --> 00:00:27,130
+[Dröhnen]
+
+7
+00:00:28,463 --> 00:00:30,005
+Willkommen in der Zukunft.
+
+8
+00:00:32,588 --> 00:00:35,255
+Ich will,
+dass der ganze kranke Scheiß aufhört!
+
+9
+00:00:36,922 --> 00:00:40,422
+[Adam] <i>Werden wir jemals in der Lage sein,</i>
+<i>zu wissen,</i>
+
+10
+00:00:40,505 --> 00:00:42,588
+<i>was der Ursprung von allem ist?</i>
+
+11
+00:00:45,005 --> 00:00:47,047
+<i>Oder gibt es immer noch ein Davor,</i>
+
+12
+00:00:47,797 --> 00:00:49,213
+<i>Davor</i>
+
+13
+00:00:49,588 --> 00:00:50,588
+<i>und Davor.</i>
+
+14
+00:00:52,880 --> 00:00:55,338
+<i>Gibt es überhaupt Anfang und Ende?</i>
+
+15
+00:00:56,213 --> 00:01:00,505
+<i>Oder ist alles in einer endlosen Schleife</i>
+<i>miteinander verbunden</i>
+
+16
+00:01:01,630 --> 00:01:03,838
+<i>und Anfang und Ende</i>
+
+17
+00:01:03,922 --> 00:01:07,755
+<i>nur unterschiedliche Worte</i>
+<i>für ein und denselben Moment?</i>
+
+18
+00:01:07,838 --> 00:01:09,422
+Mikkel?
+
+19
+00:01:09,838 --> 00:01:11,255
+<i>Mikkel!</i>
+
+20
+00:01:13,213 --> 00:01:16,088
+[Lied: "Goodbye" von Apparat]
+
+21
+00:01:16,172 --> 00:01:18,755
+EINE NETFLIX ORIGINAL SERIE
+
+22
+00:01:18,838 --> 00:01:21,505
+♪ <i>Fold out your hands</i>
+<i>Give me a sign </i>♪
+
+23
+00:01:21,588 --> 00:01:24,338
+♪ <i>Put down your lies</i> ♪
+
+24
+00:01:27,213 --> 00:01:29,880
+♪ <i>Lay down next to me</i> ♪
+
+25
+00:01:29,963 --> 00:01:33,422
+♪ <i>Don't listen when I scream</i> ♪
+
+26
+00:01:33,505 --> 00:01:37,172
+♪ <i>Bury your doubts and fall asleep</i> ♪
+
+27
+00:01:37,255 --> 00:01:40,838
+♪ <i>For neither ever</i> ♪
+
+28
+00:01:40,922 --> 00:01:43,672
+♪ <i>Nor never</i> ♪
+
+29
+00:01:43,755 --> 00:01:46,297
+♪ <i>Goodbye</i> ♪
+
+30
+00:01:48,588 --> 00:01:51,213
+♪ <i>Neither ever</i> ♪
+
+31
+00:01:51,297 --> 00:01:53,755
+♪ <i>Nor never</i> ♪
+
+32
+00:01:53,838 --> 00:01:57,463
+♪ <i>Goodbye</i> ♪
+
+33
+00:01:59,547 --> 00:02:03,047
+♪ <i>Neither ever</i> ♪
+
+34
+00:02:03,130 --> 00:02:05,297
+♪ <i>Nor never</i> ♪
+
+35
+00:02:05,380 --> 00:02:08,463
+♪ <i>Goodbye</i> ♪
+
+36
+00:02:10,672 --> 00:02:13,880
+♪ <i>Goodbye</i> ♪
+
+37
+00:02:21,713 --> 00:02:25,422
+♪ <i>Goodbye</i> ♪
+
+38
+00:02:41,005 --> 00:02:43,922
+[Musik von Nena aus dem Radiowecker]
+
+39
+00:02:44,005 --> 00:02:46,297
+♪ <i>Irgendwie fängt irgendwann</i> ♪
+
+40
+00:02:46,380 --> 00:02:48,630
+♪ <i>Irgendwo die Zukunft an</i> ♪
+
+41
+00:02:48,713 --> 00:02:50,922
+♪ <i>Ich warte nicht mehr lang</i> ♪
+
+42
+00:02:53,130 --> 00:02:56,838
+♪ <i>Liebe wird aus Mut gemacht</i>
+<i>Denk nicht lange nach</i> ♪
+
+43
+00:02:56,922 --> 00:03:01,213
+♪ <i>Wir fahr'n auf Feuerrädern</i>
+<i>Richtung Zukunft durch die Nacht</i> ♪
+
+44
+00:03:25,213 --> 00:03:26,338
+Buh!
+
+45
+00:03:26,797 --> 00:03:27,963
+Guten Morgen.
+
+46
+00:03:28,588 --> 00:03:30,380
+Guten Morgen, du Schlafmütze.
+
+47
+00:03:34,338 --> 00:03:35,755
+Und?
+
+48
+00:03:35,838 --> 00:03:39,463
+-Was hast du heute noch so vor?
+-Äh, zum See mit den anderen.
+
+49
+00:03:40,797 --> 00:03:43,005
+Es soll aber nachher Gewitter geben.
+
+50
+00:03:46,463 --> 00:03:48,213
+-Morgen.
+-Morgen.
+
+51
+00:03:48,297 --> 00:03:49,630
+[Jonas brummt.]
+
+52
+00:03:50,588 --> 00:03:53,047
+[Hannah] Heute ist
+Katharinas und Ulrichs Party.
+
+53
+00:03:53,130 --> 00:03:55,713
+-Komm nicht wieder so spät zurück, okay?
+-Ja.
+
+54
+00:03:57,922 --> 00:04:00,380
+Bist du sicher,
+dass du nicht mitkommen willst?
+
+55
+00:04:05,005 --> 00:04:06,422
+[Michael] Will jemand Kaffee?
+
+56
+00:04:12,588 --> 00:04:13,838
+Fuck.
+
+57
+00:04:19,255 --> 00:04:21,088
+[leise, angespannte Musik]
+
+58
+00:04:26,630 --> 00:04:28,422
+Also, ich muss dann los.
+
+59
+00:04:29,755 --> 00:04:31,630
+[düstere Musik]
+
+60
+00:04:36,505 --> 00:04:38,255
+Alles okay, Papa?
+
+61
+00:04:39,380 --> 00:04:41,005
+Ja, ist alles gut.
+
+62
+00:04:41,505 --> 00:04:43,547
+Es ist alles in Ordnung.
+
+63
+00:04:44,130 --> 00:04:46,005
+Ich hatte nur gerade ein Déjà-vu.
+
+64
+00:04:49,672 --> 00:04:51,505
+Okay. Dann bis später.
+
+65
+00:05:25,922 --> 00:05:28,755
+Glaubst du nicht, es wäre gut,
+wenn du mal rauskommst?
+
+66
+00:05:32,838 --> 00:05:35,130
+Willst du's nicht wenigstens versuchen?
+
+67
+00:05:35,672 --> 00:05:37,130
+Hm?
+
+68
+00:05:40,630 --> 00:05:42,047
+Für mich.
+
+69
+00:05:44,130 --> 00:05:46,338
+Ich muss noch mein Bild fertig machen.
+
+70
+00:06:12,005 --> 00:06:14,005
+[beunruhigende Musik]
+
+71
+00:06:31,713 --> 00:06:33,630
+[sanft-wehmütige Musik]
+
+72
+00:06:53,213 --> 00:06:54,672
+[Glocke läutet.]
+
+73
+00:07:05,338 --> 00:07:07,338
+[düstere Musik]
+
+74
+00:07:15,922 --> 00:07:17,172
+Hey.
+
+75
+00:07:19,255 --> 00:07:20,713
+Was ist?
+
+76
+00:07:20,797 --> 00:07:21,963
+Hm?
+
+77
+00:07:22,047 --> 00:07:23,213
+Hm.
+
+78
+00:07:23,713 --> 00:07:25,838
+Ich muss noch so viel machen heute.
+
+79
+00:07:26,547 --> 00:07:30,172
+Und ich bekomm meine Tage
+und hab mich ewig nicht rasiert und...
+
+80
+00:07:30,255 --> 00:07:32,297
+-Es tut mir leid.
+-Das ist mir egal.
+
+81
+00:07:33,130 --> 00:07:34,963
+-Tut mir leid, ich kann nicht.
+-Doch.
+
+82
+00:07:35,047 --> 00:07:38,130
+-[Tür wird geöffnet.]
+-Könnt ihr nicht ein Mal anklopfen?
+
+83
+00:07:38,838 --> 00:07:40,505
+Ich glaub, ich bin krank.
+
+84
+00:07:41,172 --> 00:07:43,088
+Da sind überall rote Punkte auf mir.
+
+85
+00:07:44,172 --> 00:07:47,630
+-Vielleicht habe ich Denguefieber?
+-[Katharina] Komm mal her.
+
+86
+00:07:53,213 --> 00:07:54,547
+Scheiße.
+
+87
+00:07:58,422 --> 00:08:00,255
+Du hast die Röteln.
+
+88
+00:08:01,005 --> 00:08:04,380
+Von allen Tagen musst du dir
+ausgerechnet heute aussuchen?
+
+89
+00:08:04,463 --> 00:08:06,463
+[Sie knurrt.]
+
+90
+00:08:06,547 --> 00:08:08,047
+Komm, wir gehen zum Arzt.
+
+91
+00:08:32,005 --> 00:08:33,672
+[Regina] Kommst du nachher?
+
+92
+00:08:38,172 --> 00:08:41,797
+-Ob du heute Mittag im Hotel vorbeikommst.
+-Ja, natürlich. Ja.
+
+93
+00:08:42,380 --> 00:08:44,005
+Ist alles in Ordnung?
+
+94
+00:08:45,047 --> 00:08:46,297
+Ja.
+
+95
+00:08:46,380 --> 00:08:47,880
+Bist du sicher?
+
+96
+00:08:49,213 --> 00:08:50,380
+Mhm.
+
+97
+00:08:54,380 --> 00:08:55,922
+Dann bis nachher.
+
+98
+00:09:02,130 --> 00:09:04,297
+[bedrückende Klänge]
+
+99
+00:09:14,297 --> 00:09:15,505
+Hey.
+
+100
+00:09:17,130 --> 00:09:18,755
+Wo sind denn die Kinder?
+
+101
+00:09:30,797 --> 00:09:32,755
+Ich war im Pflegeheim.
+
+102
+00:09:37,422 --> 00:09:39,547
+Soll das jetzt immer so weitergehen?
+
+103
+00:09:40,088 --> 00:09:41,963
+Dass du mir nichts mehr glaubst?
+
+104
+00:09:44,963 --> 00:09:46,380
+Sag was!
+
+105
+00:09:56,797 --> 00:09:59,672
+Vielleicht ist das der Grund,
+warum das alles geschah.
+
+106
+00:10:02,922 --> 00:10:05,172
+Weil ich nichts von dir kriege. Nichts.
+
+107
+00:10:07,797 --> 00:10:09,880
+Es ist, als ob du da drin tot bist.
+
+108
+00:10:13,588 --> 00:10:15,172
+Wegen heute Abend:
+
+109
+00:10:16,755 --> 00:10:20,463
+Ich glaub, dass es das Beste ist,
+wenn ich allein zu den Nielsens gehe.
+
+110
+00:10:30,630 --> 00:10:32,463
+[bedrückende Klänge]
+
+111
+00:10:40,963 --> 00:10:44,255
+-[Bartosz] Hier ist diese Frau ertrunken.
+-Mann, hör auf!
+
+112
+00:10:44,922 --> 00:10:48,630
+Wenn das Wasser so klar ist,
+kann man da unten noch ihr Kleid sehen.
+
+113
+00:10:49,338 --> 00:10:53,088
+Und manchmal... spürt man ihre Hände
+an den Füßen beim Schwimmen.
+
+114
+00:10:54,047 --> 00:10:56,088
+Aber das ist noch nicht das Krasseste.
+
+115
+00:10:56,172 --> 00:10:58,505
+Das Krasseste ist, wenn sie Hunger hat,
+
+116
+00:10:59,547 --> 00:11:01,880
+dann zieht sie die Leute runter zu sich.
+
+117
+00:11:01,963 --> 00:11:03,255
+Ah!
+
+118
+00:11:04,005 --> 00:11:05,713
+[Bartosz lacht.]
+
+119
+00:11:09,797 --> 00:11:11,213
+Mann, du Arsch!
+
+120
+00:11:12,505 --> 00:11:14,088
+Haha, sehr witzig.
+
+121
+00:11:35,255 --> 00:11:36,922
+[Martha] Kommst du heute Abend?
+
+122
+00:11:38,047 --> 00:11:39,630
+Denk schon.
+
+123
+00:11:55,588 --> 00:11:59,172
+Manchmal frag ich mich, ob meine Eltern
+glücklich miteinander sind.
+
+124
+00:12:01,463 --> 00:12:04,172
+Oder ob man sich einfach damit arrangiert,
+was man hat.
+
+125
+00:12:07,922 --> 00:12:09,630
+Sind deine Eltern glücklich?
+
+126
+00:12:14,630 --> 00:12:16,047
+Keine Ahnung.
+
+127
+00:12:36,422 --> 00:12:38,422
+[ernste Musik]
+
+128
+00:12:38,838 --> 00:12:40,338
+Was ist das?
+
+129
+00:12:42,047 --> 00:12:43,672
+Sieht ziemlich alt aus.
+
+130
+00:12:47,588 --> 00:12:50,005
+[Martha] Das ist
+der heilige Christophorus.
+
+131
+00:12:51,380 --> 00:12:53,713
+Das ist der Schutzheilige der Reisenden.
+
+132
+00:12:55,963 --> 00:12:57,672
+[Beide lachen.]
+
+133
+00:12:57,755 --> 00:12:59,588
+-[Martha] Frag nicht.
+-[Lachen]
+
+134
+00:13:07,422 --> 00:13:09,588
+[düstere Musik]
+
+135
+00:13:23,297 --> 00:13:24,797
+[Autohupe]
+
+136
+00:13:30,755 --> 00:13:32,172
+[Hupen]
+
+137
+00:13:34,505 --> 00:13:36,880
+Hey, Jonas. Wolltet ihr nicht zum See?
+
+138
+00:13:38,297 --> 00:13:40,588
+Martha und Magnus sind schon lange los.
+
+139
+00:13:44,213 --> 00:13:45,672
+<i>Ultimate fist bump</i>?
+
+140
+00:13:46,380 --> 00:13:49,755
+[Katharina] Fass die Pestbeule nicht an.
+Der hat die Röteln.
+
+141
+00:13:51,047 --> 00:13:52,672
+Wo ist denn dein Fahrrad?
+
+142
+00:13:53,172 --> 00:13:54,797
+Sollen wir dich mitnehmen?
+
+143
+00:13:55,338 --> 00:13:59,047
+-Na dann bis heute Abend.
+-Jemand freut sich sehr, wenn du kommst.
+
+144
+00:13:59,130 --> 00:14:00,755
+Und es ist nicht Magnus.
+
+145
+00:14:01,630 --> 00:14:02,922
+-Ulrich, bitte.
+-Wieso?
+
+146
+00:14:03,005 --> 00:14:05,630
+Weiß doch jeder,
+dass Martha in den verschossen ist.
+
+147
+00:14:05,713 --> 00:14:09,463
+[Katharina] Hört auf. Komm, steig ein,
+wir setzen dich am See ab.
+
+148
+00:14:10,255 --> 00:14:12,755
+-Nein, ist in Ordnung, wirklich.
+-[Ulrich] Gut.
+
+149
+00:14:12,838 --> 00:14:14,672
+-Okay.
+-Also dann bis später, Romeo.
+
+150
+00:14:16,255 --> 00:14:17,797
+[Katharina] Mein Gott.
+
+151
+00:14:59,213 --> 00:15:02,338
+-Magnus.
+-I... Du, du hast dich nicht bewegt und...
+
+152
+00:15:03,047 --> 00:15:06,713
+Ich, ich dachte, du bist tot.
+Er hat gesagt, da ist jemand tot, und...
+
+153
+00:15:11,630 --> 00:15:13,047
+Alles noch lebendig.
+
+154
+00:15:15,255 --> 00:15:16,505
+Cool.
+
+155
+00:15:41,797 --> 00:15:43,172
+Ist was?
+
+156
+00:15:45,838 --> 00:15:47,130
+Ich hab...
+
+157
+00:15:47,922 --> 00:15:49,672
+Ich hab nur gerade gedacht...
+
+158
+00:15:52,588 --> 00:15:56,005
+Möchtest du auch manchmal gern wissen,
+was als Nächstes passiert?
+
+159
+00:16:01,588 --> 00:16:03,297
+Du meinst, in der Zukunft?
+
+160
+00:16:07,088 --> 00:16:08,463
+Ja, oder...
+
+161
+00:16:10,255 --> 00:16:13,463
+...manchmal auch einfach nur
+in den nächsten fünf Minuten.
+
+162
+00:16:14,588 --> 00:16:15,922
+Ich hab...
+
+163
+00:16:16,838 --> 00:16:18,505
+...manchmal so ein Gefühl,
+
+164
+00:16:19,630 --> 00:16:21,588
+als ob gleich was passiert.
+
+165
+00:16:24,380 --> 00:16:25,797
+Verstehst du?
+
+166
+00:16:30,213 --> 00:16:31,255
+Attacke!
+
+167
+00:16:40,672 --> 00:16:41,672
+Fuck.
+
+168
+00:16:43,547 --> 00:16:44,922
+Was ist?
+
+169
+00:16:45,588 --> 00:16:47,213
+Ich muss los.
+
+170
+00:16:49,422 --> 00:16:50,838
+Wohin denn?
+
+171
+00:16:50,922 --> 00:16:54,922
+Wir haben meiner Oma Ines
+so ein Tablet zum Geburtstag geschenkt.
+
+172
+00:16:56,338 --> 00:16:59,047
+-Ich soll ihr zeigen, wie's funktioniert.
+-Okay.
+
+173
+00:17:00,422 --> 00:17:01,630
+Also...
+
+174
+00:17:02,088 --> 00:17:03,422
+Bis später.
+
+175
+00:17:07,588 --> 00:17:09,130
+Jonas.
+
+176
+00:17:09,588 --> 00:17:12,088
+Wieso hast du eigentlich
+'ne Regenjacke dabei?
+
+177
+00:17:13,172 --> 00:17:15,005
+Na, weil's später regnen soll.
+
+178
+00:17:17,047 --> 00:17:18,297
+Also...
+
+179
+00:17:34,755 --> 00:17:36,588
+[bedrückende Musik]
+
+180
+00:18:03,213 --> 00:18:04,880
+Wolltest du nicht gehen?
+
+181
+00:18:25,713 --> 00:18:27,130
+Alles okay?
+
+182
+00:18:30,838 --> 00:18:32,713
+Ich dachte, ich hab noch Zeit.
+
+183
+00:18:40,088 --> 00:18:41,922
+Warum sagt man das eigentlich?
+
+184
+00:18:44,047 --> 00:18:45,463
+"Zeit haben".
+
+185
+00:18:48,213 --> 00:18:51,172
+Wie kann man Zeit haben,
+wenn sie eindeutig dich hat?
+
+186
+00:18:59,838 --> 00:19:01,380
+Ist was passiert?
+
+187
+00:19:01,463 --> 00:19:03,463
+[geheimnisvolle Klänge]
+
+188
+00:19:06,380 --> 00:19:08,047
+Du bist irgendwie anders.
+
+189
+00:19:13,672 --> 00:19:15,505
+Ich wollte dir noch was sagen.
+
+190
+00:19:18,380 --> 00:19:20,380
+Das will ich dir schon lange sagen.
+
+191
+00:19:25,380 --> 00:19:27,630
+Ich finde,
+wir beide passen perfekt zusammen.
+
+192
+00:19:32,172 --> 00:19:33,797
+Denk nie was anderes.
+
+193
+00:19:41,838 --> 00:19:43,838
+[sanft-wehmütige Musik]
+
+194
+00:20:31,338 --> 00:20:32,922
+Ich muss jetzt los.
+
+195
+00:20:39,463 --> 00:20:41,297
+[traurig-sanfte Musik]
+
+196
+00:21:11,963 --> 00:21:14,130
+[Ein Auto nähert sich.]
+
+197
+00:21:14,422 --> 00:21:15,922
+-[Ulrich] Hi.
+-[Hannah] Hallo.
+
+198
+00:21:16,005 --> 00:21:19,838
+[Ulrich] Na?
+Hat Admiral Nielsen dich auch eingespannt?
+
+199
+00:21:19,922 --> 00:21:22,047
+[Hannah] Alles Gute zum Hochzeitstag.
+
+200
+00:21:22,130 --> 00:21:24,672
+[Katharina] Das ist Wahnsinn, oder?
+25 Jahre.
+
+201
+00:21:25,130 --> 00:21:26,713
+Danke für die Gläser, Hannah.
+
+202
+00:21:28,005 --> 00:21:29,838
+[Hannah] Kein Problem, wirklich.
+
+203
+00:21:33,088 --> 00:21:36,047
+[Ulrich] Ja, wer hätte das gedacht?
+
+204
+00:21:36,797 --> 00:21:38,172
+25 Jahre.
+
+205
+00:21:41,422 --> 00:21:44,505
+-Ich muss pinkeln.
+-[Ulrich] Mach's doch schnell am Baum.
+
+206
+00:21:46,505 --> 00:21:48,505
+[beklemmende Musik]
+
+207
+00:21:53,880 --> 00:21:55,838
+[Katharina] Kann er bei euch aufs Klo?
+
+208
+00:21:57,297 --> 00:21:58,588
+Hannah?
+
+209
+00:21:58,672 --> 00:22:00,088
+[düstere Musik]
+
+210
+00:22:00,172 --> 00:22:01,588
+Hallo?
+
+211
+00:22:03,422 --> 00:22:06,505
+-Komm, dann geh schnell in den Wald.
+-Nee, klar. Quatsch.
+
+212
+00:22:06,588 --> 00:22:09,338
+Ähm... das ist
+gleich gegenüber der Eingangstür.
+
+213
+00:22:11,505 --> 00:22:14,172
+Ich hatte nur gerade
+ein Déjà-vu oder so was.
+
+214
+00:22:15,213 --> 00:22:18,172
+-Mikkel ist groß geworden.
+-Frisst wie ein Scheunendrescher.
+
+215
+00:22:18,255 --> 00:22:21,005
+-Hat er von seiner Mutter.
+-Sag mal...
+
+216
+00:22:30,547 --> 00:22:32,297
+[Tür fällt ins Schloss.]
+
+217
+00:22:32,380 --> 00:22:34,380
+[düstere Musik]
+
+218
+00:23:28,297 --> 00:23:30,047
+[Plätschern]
+
+219
+00:23:33,047 --> 00:23:34,880
+[Toilettenspülung]
+
+220
+00:23:37,838 --> 00:23:39,838
+[beklemmende Musik]
+
+221
+00:24:17,963 --> 00:24:19,630
+-Willst du noch?
+-Nein.
+
+222
+00:24:20,505 --> 00:24:22,880
+-Man sieht sich.
+-Bis morgen... Martha.
+
+223
+00:24:23,588 --> 00:24:24,922
+Ähm...
+
+224
+00:24:25,505 --> 00:24:29,505
+Tut mir leid, dass ich nachher
+nicht kommen kann, aber... wir feiern.
+
+225
+00:24:30,005 --> 00:24:34,047
+Meine Mutter und das Hotel und...
+Ich bin da nicht mehr rausgekommen.
+
+226
+00:24:34,338 --> 00:24:36,130
+Das wollte ich dir nur sagen.
+
+227
+00:24:37,755 --> 00:24:38,838
+Kein Ding.
+
+228
+00:24:38,922 --> 00:24:40,130
+Und... ich...
+
+229
+00:24:41,047 --> 00:24:42,630
+Ich find übrigens...
+
+230
+00:24:43,505 --> 00:24:45,005
+...deine Haare toll so.
+
+231
+00:24:45,672 --> 00:24:48,047
+Ich meine, du siehst gut aus...
+
+232
+00:24:48,797 --> 00:24:50,380
+...mit den Haaren.
+
+233
+00:24:51,713 --> 00:24:53,838
+Oh, Scheiße. Du weißt, was ich meine.
+
+234
+00:24:55,838 --> 00:24:57,255
+Dann...
+
+235
+00:24:58,047 --> 00:24:59,588
+...sehen wir uns morgen.
+
+236
+00:25:00,547 --> 00:25:01,672
+Ciao.
+
+237
+00:25:01,755 --> 00:25:02,963
+Ciao.
+
+238
+00:25:06,588 --> 00:25:08,422
+[Donnergrollen]
+
+239
+00:25:28,130 --> 00:25:29,713
+Wöller, ich bin's.
+
+240
+00:25:31,297 --> 00:25:34,088
+Ich möchte,
+dass du etwas für mich herausfindest.
+
+241
+00:25:37,713 --> 00:25:39,130
+Vertraulich.
+
+242
+00:25:42,172 --> 00:25:45,213
+[Lied: "Irgendwie, irgendwo, irgendwann"
+von Nena]
+
+243
+00:25:45,297 --> 00:25:49,963
+♪ <i>Irgendwie, irgendwo, irgendwann</i> ♪
+
+244
+00:25:51,172 --> 00:25:54,880
+♪ <i>Die Zeit ist reif</i>
+<i>Für ein bisschen Zärtlichkeit</i> ♪
+
+245
+00:25:54,963 --> 00:25:59,172
+♪ <i>Irgendwie, irgendwo, irgendwann</i> ♪
+
+246
+00:25:59,255 --> 00:26:00,547
+Hallo, Martha.
+
+247
+00:26:00,630 --> 00:26:02,047
+-Hi.
+-Hi.
+
+248
+00:26:03,505 --> 00:26:05,130
+Schön, dass du da bist.
+
+249
+00:26:06,922 --> 00:26:09,088
+-Willst du was trinken?
+-Ja, gerne.
+
+250
+00:26:10,422 --> 00:26:12,588
+-[Katharina] Hey! Na?
+-Hey.
+
+251
+00:26:13,880 --> 00:26:16,880
+Es sollte 'ne Gartenparty werden,
+aber so ist es gemütlicher.
+
+252
+00:26:16,963 --> 00:26:18,922
+Ich hab Tiramisu mitgebracht.
+
+253
+00:26:19,005 --> 00:26:21,755
+Oh, das ist mein Lieblingssong.
+Ich muss tanzen!
+
+254
+00:26:21,838 --> 00:26:24,547
+-[Lied: "Heaven Is A Place On Earth"]
+-[Katharina] Ah!
+
+255
+00:26:24,630 --> 00:26:26,963
+-Wo ist der Champagner?
+-Unterm Tisch.
+
+256
+00:26:27,047 --> 00:26:29,588
+-Danke, danke.
+-Wir sind so stolz auf dich.
+
+257
+00:26:29,672 --> 00:26:33,963
+Ja, ich schätze, dafür muss wenigstens
+der Führerschein drin sein.
+
+258
+00:26:34,047 --> 00:26:35,047
+-Nee.
+-Ja.
+
+259
+00:26:35,130 --> 00:26:36,963
+-Wirklich?
+-Versprochen.
+
+260
+00:26:37,547 --> 00:26:39,422
+Charlotte!
+
+261
+00:26:39,505 --> 00:26:41,630
+-Hier. Dafür musst du mit mir tanzen.
+-Nee.
+
+262
+00:26:41,713 --> 00:26:43,838
+-Doch, komm.
+-Katharina, bitte nicht.
+
+263
+00:26:45,338 --> 00:26:46,547
+-Hey.
+-Hey.
+
+264
+00:26:46,630 --> 00:26:47,838
+Na?
+
+265
+00:26:49,672 --> 00:26:51,422
+Weißt du, wo das hinsoll?
+
+266
+00:26:51,505 --> 00:26:52,963
+Hier rüber.
+
+267
+00:26:55,713 --> 00:26:57,422
+Wo ist denn Peter?
+
+268
+00:26:57,505 --> 00:26:58,922
+Sommergrippe.
+
+269
+00:27:00,588 --> 00:27:02,005
+Und Michael?
+
+270
+00:27:02,797 --> 00:27:04,380
+So was Ähnliches.
+
+271
+00:27:05,130 --> 00:27:07,005
+-Ich bring das mal rüber.
+-Klar.
+
+272
+00:27:07,755 --> 00:27:09,588
+Champagner, uah!
+
+273
+00:27:09,922 --> 00:27:10,922
+Huh!
+
+274
+00:27:11,005 --> 00:27:12,297
+Danke.
+
+275
+00:27:13,088 --> 00:27:14,338
+Hannah.
+
+276
+00:27:14,838 --> 00:27:17,005
+Komm, jetzt amüsier dich ein bisschen.
+
+277
+00:27:18,547 --> 00:27:20,172
+Schön, dass du da bist.
+
+278
+00:27:20,255 --> 00:27:22,963
+-Schön, dass ihr alle da seid! Prost!
+-[Gäste] Prost!
+
+279
+00:27:23,047 --> 00:27:24,338
+-Hallo.
+-Hallo.
+
+280
+00:27:24,422 --> 00:27:25,755
+Zum Wohl!
+
+281
+00:27:29,005 --> 00:27:31,672
+So, jetzt tanzt du mal mit mir,
+du alter Mann.
+
+282
+00:27:33,255 --> 00:27:37,130
+♪ <i>They say in heaven love comes first</i> ♪
+
+283
+00:27:37,213 --> 00:27:40,588
+♪ <i>We'll make heaven a place on earth</i> ♪
+
+284
+00:27:40,672 --> 00:27:42,255
+[Donnergrollen]
+
+285
+00:28:07,088 --> 00:28:08,672
+[Tür wird geöffnet.]
+
+286
+00:28:38,588 --> 00:28:40,588
+[schwermütige Musik]
+
+287
+00:29:02,505 --> 00:29:03,922
+[Michael] Jonas?
+
+288
+00:29:06,047 --> 00:29:08,380
+Ich dachte doch, ich hab was gehört.
+
+289
+00:29:09,880 --> 00:29:12,338
+Bist du nicht eigentlich bei den Nielsens?
+
+290
+00:29:19,213 --> 00:29:20,797
+Ist irgendwas passiert?
+
+291
+00:29:30,172 --> 00:29:31,422
+Hey.
+
+292
+00:29:34,797 --> 00:29:36,213
+Ist alles gut?
+
+293
+00:29:42,880 --> 00:29:44,713
+Was ist denn mit deinen Haaren?
+
+294
+00:29:55,380 --> 00:29:57,380
+[leise, irritierende Musik]
+
+295
+00:30:05,338 --> 00:30:07,088
+Ich weiß es.
+
+296
+00:30:08,213 --> 00:30:09,797
+Was weißt du?
+
+297
+00:30:11,130 --> 00:30:12,713
+Ich weiß alles.
+
+298
+00:30:14,755 --> 00:30:16,005
+Was?
+
+299
+00:30:22,088 --> 00:30:23,672
+<i>Ultimate fist bump.</i>
+
+300
+00:30:25,713 --> 00:30:27,547
+[Donnergrollen]
+
+301
+00:30:29,172 --> 00:30:30,422
+Was?
+
+302
+00:30:31,588 --> 00:30:33,588
+[unheilvolle Klänge]
+
+303
+00:30:35,297 --> 00:30:38,588
+-Warum hast du das grade gesagt?
+-Weil ich es weiß, Papa.
+
+304
+00:30:41,422 --> 00:30:43,005
+Ich weiß alles.
+
+305
+00:30:46,547 --> 00:30:49,505
+Ich weiß, dass dein richtiger Name
+Mikkel Nielsen ist.
+
+306
+00:30:51,213 --> 00:30:53,338
+[düstere Musik]
+
+307
+00:30:55,213 --> 00:30:56,838
+Es ist okay.
+
+308
+00:30:58,755 --> 00:31:00,172
+Verzeih mir.
+
+309
+00:31:09,297 --> 00:31:12,422
+[Lied: "Never Gonna Give You Up"
+von Rick Astley]
+
+310
+00:31:19,338 --> 00:31:21,338
+[Ulrich] Noch jünger und noch schöner.
+
+311
+00:31:22,338 --> 00:31:25,130
+-Beim Dritten dachte ich, du platzt.
+-[Katharina] Das ist gemein.
+
+312
+00:31:25,213 --> 00:31:29,463
+-[Ulrich] Schau mal, die kleine Süße.
+-Die kleine Süße? Das ist Magnus.
+
+313
+00:31:32,297 --> 00:31:34,672
+-Was ist los?
+-Ich kann nicht schlafen.
+
+314
+00:31:35,047 --> 00:31:36,422
+Ach nee.
+
+315
+00:31:38,005 --> 00:31:39,713
+Oh, du bist ganz heiß.
+
+316
+00:31:41,838 --> 00:31:45,380
+-[Ulrich] Hier das Grauen in Synthetik.
+-Okay, ich bring dich hoch.
+
+317
+00:31:45,463 --> 00:31:49,213
+-[Hannah] Ich hab das Kleid geliebt.
+-[Ulrich] Ihr seid ganz schön sexy.
+
+318
+00:31:53,505 --> 00:31:55,130
+Und... schwupp.
+
+319
+00:32:03,172 --> 00:32:06,963
+-Schlaf gut. Gute Nacht.
+-Kannst du bleiben, bis ich einschlafe?
+
+320
+00:32:08,422 --> 00:32:10,422
+[fröhliche Stimmen von unten]
+
+321
+00:32:13,130 --> 00:32:14,755
+[Sie knurrt.]
+
+322
+00:32:16,005 --> 00:32:17,630
+Rutsch rüber.
+
+323
+00:32:25,088 --> 00:32:27,463
+[Michael] <i>Also, du bist aus der Zukunft?</i>
+
+324
+00:32:34,880 --> 00:32:36,713
+Und warum bist du jetzt hier?
+
+325
+00:32:39,047 --> 00:32:41,088
+Weil ich dich um etwas bitten muss.
+
+326
+00:32:43,797 --> 00:32:45,005
+Ja?
+
+327
+00:32:46,963 --> 00:32:48,755
+Es nicht zu tun.
+
+328
+00:32:49,297 --> 00:32:50,922
+Was nicht zu tun?
+
+329
+00:32:52,630 --> 00:32:55,088
+Es ist Ulrichs und Katharinas
+Hochzeitstag.
+
+330
+00:32:55,713 --> 00:32:58,713
+Du bist nicht mitgegangen, so wie immer.
+Du bist hiergeblieben.
+
+331
+00:33:00,380 --> 00:33:02,088
+Aber irgendwas war anders.
+
+332
+00:33:03,547 --> 00:33:05,630
+Ich hätte merken müssen, dass was ist.
+
+333
+00:33:05,963 --> 00:33:08,213
+Jonas, ich hab keine Ahnung, wovon...
+
+334
+00:33:08,297 --> 00:33:10,213
+[laut] Lüg mich nicht an, okay?
+
+335
+00:33:10,422 --> 00:33:12,338
+Ich weiß es, verdammte Scheiße.
+
+336
+00:33:14,338 --> 00:33:17,172
+Ich weiß,
+dass du dich im Atelier erhängen wirst.
+
+337
+00:33:18,130 --> 00:33:19,880
+[Donnergrollen]
+
+338
+00:33:20,547 --> 00:33:22,588
+Hast du den Brief schon geschrieben?
+
+339
+00:33:23,255 --> 00:33:24,838
+Welchen Brief?
+
+340
+00:33:25,297 --> 00:33:27,380
+Den Brief, den du an mich schreibst.
+
+341
+00:33:28,255 --> 00:33:30,338
+Nicht an mich, an mein jüngeres Ich.
+
+342
+00:33:37,047 --> 00:33:41,088
+Der, auf dem steht, man soll ihn nicht
+vor dem 4. November 22:13 Uhr öffnen.
+
+343
+00:33:43,755 --> 00:33:46,338
+Exakt in der Minute,
+in der du verschwindest.
+
+344
+00:33:58,880 --> 00:34:01,172
+Ich bin hier, damit du's nicht tust.
+
+345
+00:34:03,922 --> 00:34:05,505
+Alles hängt zusammen.
+
+346
+00:34:06,255 --> 00:34:08,172
+Wie eine endlose Schleife.
+
+347
+00:34:08,963 --> 00:34:10,463
+Aber du,
+
+348
+00:34:10,547 --> 00:34:12,172
+dass du dich umbringst,
+
+349
+00:34:12,755 --> 00:34:14,505
+das ist der Anfang.
+
+350
+00:34:25,380 --> 00:34:27,630
+[leise, dröhnende Klänge]
+
+351
+00:34:36,630 --> 00:34:38,797
+Versprich mir, dass du's nicht tust.
+
+352
+00:34:41,505 --> 00:34:43,588
+Papa, du musst es mir versprechen.
+
+353
+00:34:44,130 --> 00:34:45,380
+Bitte.
+
+354
+00:34:45,755 --> 00:34:47,255
+Versprich es.
+
+355
+00:34:48,797 --> 00:34:50,630
+[düstere Klänge]
+
+356
+00:34:55,213 --> 00:34:57,213
+[leise Musik von unten]
+
+357
+00:35:10,380 --> 00:35:12,005
+Den hast du am See vergessen.
+
+358
+00:35:13,963 --> 00:35:15,755
+Ich hab ein Band drangemacht.
+
+359
+00:35:23,838 --> 00:35:25,088
+Danke.
+
+360
+00:35:32,838 --> 00:35:35,838
+Ich hab darüber nachgedacht,
+was du am See gesagt hast.
+
+361
+00:35:39,172 --> 00:35:41,380
+[stockend] Über Omas und das Internet?
+
+362
+00:35:49,880 --> 00:35:51,880
+[geheimnisvolle Klänge]
+
+363
+00:35:59,755 --> 00:36:01,547
+Ich finde, dass du recht hast.
+
+364
+00:36:07,547 --> 00:36:08,838
+[fragend] Okay.
+
+365
+00:36:44,838 --> 00:36:46,588
+[Donner]
+
+366
+00:36:51,130 --> 00:36:53,422
+In der Nacht, als du verschwunden bist...
+
+367
+00:36:55,005 --> 00:36:57,505
+Du warst da,
+und dann warst du plötzlich weg.
+
+368
+00:36:58,380 --> 00:37:00,047
+Bist du zurück zur Höhle?
+
+369
+00:37:00,838 --> 00:37:02,797
+Wie hast du die Passage gefunden?
+
+370
+00:37:04,880 --> 00:37:06,547
+Ich hab sie nicht gefunden.
+
+371
+00:37:07,422 --> 00:37:09,130
+Jemand hat sie mir gezeigt.
+
+372
+00:37:11,047 --> 00:37:12,297
+Wer?
+
+373
+00:37:15,380 --> 00:37:16,588
+Du.
+
+374
+00:37:17,422 --> 00:37:19,255
+[düstere Klänge]
+
+375
+00:37:22,588 --> 00:37:24,088
+Wie meinst du das?
+
+376
+00:37:27,130 --> 00:37:28,963
+[Michael] <i>Wir waren bei den Höhlen.</i>
+
+377
+00:37:29,047 --> 00:37:32,380
+-[Bartosz] Einen Arschtritt kriegst du.
+-[Franziska] Das ist locker 500 wert.
+
+378
+00:37:32,463 --> 00:37:34,963
+Für 200 wechselt es den Besitzer.
+Papi hat Geld.
+
+379
+00:37:35,047 --> 00:37:37,505
+[Bartosz] Bla, bla, bla.
+Du quatschst bloß.
+
+380
+00:37:38,463 --> 00:37:39,963
+Gib mir einfach den Beutel.
+
+381
+00:37:41,630 --> 00:37:45,255
+-[Michael] <i>Da war ein seltsames Geräusch.</i>
+-[metallisches Krachen]
+
+382
+00:37:47,505 --> 00:37:49,380
+[Magnus] Was ist denn das?
+
+383
+00:37:49,463 --> 00:37:51,380
+[Michael] <i>Wir dachten, da ist jemand.</i>
+
+384
+00:37:51,463 --> 00:37:52,880
+[Bartosz] War da jemand?
+
+385
+00:37:53,463 --> 00:37:54,630
+Scheiße.
+
+386
+00:37:56,505 --> 00:37:58,130
+Was wird denn das hier?
+
+387
+00:37:58,213 --> 00:37:59,630
+[Krachen]
+
+388
+00:37:59,713 --> 00:38:01,213
+[Brausen]
+
+389
+00:38:01,838 --> 00:38:03,630
+[Magnus] Scheiße. Was ist hier los?
+
+390
+00:38:04,130 --> 00:38:05,922
+[Bartosz] Was ist mit den Scheißlampen?
+
+391
+00:38:07,172 --> 00:38:08,463
+Los, lauft!
+
+392
+00:38:08,547 --> 00:38:09,505
+Los!
+
+393
+00:38:09,922 --> 00:38:11,172
+Los!
+
+394
+00:38:19,880 --> 00:38:23,338
+[Michael] <i>Wir sind gerannt.</i>
+<i>Dann hab ich dich verloren.</i>
+
+395
+00:38:25,588 --> 00:38:27,922
+<i>Ich hab mich umgedreht, und du warst weg.</i>
+
+396
+00:38:31,672 --> 00:38:33,630
+<i>Dann warst du plötzlich wieder da.</i>
+
+397
+00:38:34,963 --> 00:38:36,713
+Schnell.
+
+398
+00:38:37,213 --> 00:38:38,838
+Hier lang.
+
+399
+00:38:40,422 --> 00:38:43,088
+[Michael] <i>Du hast gesagt,</i>
+<i>da ist etwas im Wald.</i>
+
+400
+00:38:43,588 --> 00:38:45,213
+<i>Etwas... Böses.</i>
+
+401
+00:38:46,255 --> 00:38:48,338
+Und dass wir zur Höhle zurückmüssen.
+
+402
+00:38:48,838 --> 00:38:51,588
+Du hast mich den ganzen Weg
+bis zur Tür gebracht,
+
+403
+00:38:51,672 --> 00:38:53,255
+und durch den Tunnel.
+
+404
+00:38:53,922 --> 00:38:55,755
+Ich hatte solche Angst.
+
+405
+00:38:55,838 --> 00:38:57,880
+Aber du hast meine Hand gehalten.
+
+406
+00:38:58,297 --> 00:39:01,172
+Und dann hast du gesagt,
+wir müssen hierbleiben,
+
+407
+00:39:01,255 --> 00:39:02,713
+die ganze Nacht.
+
+408
+00:39:02,797 --> 00:39:05,672
+Aber wenn es Morgen ist,
+dann ist alles gut.
+
+409
+00:39:06,713 --> 00:39:09,088
+Und als ich aufgewacht bin, warst du weg.
+
+410
+00:39:13,297 --> 00:39:16,213
+Ich hab die ganzen Jahre
+versucht zu verstehen,
+
+411
+00:39:16,297 --> 00:39:18,088
+warum du das gemacht hast.
+
+412
+00:39:19,588 --> 00:39:22,422
+Aber dann
+ist das alles irgendwann verblasst.
+
+413
+00:39:23,422 --> 00:39:26,172
+Unwirklicher geworden, wie im Traum.
+
+414
+00:39:30,380 --> 00:39:32,047
+Aber das ist unmöglich.
+
+415
+00:39:34,005 --> 00:39:35,672
+Ich hab das nie getan.
+
+416
+00:39:39,088 --> 00:39:40,797
+Ich hab mich heute gesehen.
+
+417
+00:39:42,338 --> 00:39:43,630
+Mikkel.
+
+418
+00:39:44,380 --> 00:39:45,963
+Es kommt alles zurück,
+
+419
+00:39:46,047 --> 00:39:47,547
+diese Jacke, du...
+
+420
+00:39:48,547 --> 00:39:50,213
+Als ob sich alles fügt.
+
+421
+00:39:52,755 --> 00:39:55,630
+Vielleicht bist du gar nicht hier,
+um mich aufzuhalten,
+
+422
+00:39:56,755 --> 00:40:00,588
+sondern um mir überhaupt erst zu zeigen,
+was ich tun muss.
+
+423
+00:40:01,838 --> 00:40:05,297
+Vielleicht hast du mir den Brief gezeigt,
+damit ich den Inhalt kenne,
+
+424
+00:40:05,380 --> 00:40:07,172
+damit ich gehe und du lebst.
+
+425
+00:40:07,755 --> 00:40:10,463
+Nein, das kann nicht sein.
+Das kann nicht sein.
+
+426
+00:40:11,297 --> 00:40:13,463
+Er sagte, ich kann den Ursprung ändern.
+
+427
+00:40:13,672 --> 00:40:16,547
+Wenn du dich nicht umbringst,
+passiert nichts von alldem.
+
+428
+00:40:17,505 --> 00:40:21,297
+Aber wenn all das nicht passiert,
+dann wirst du nicht geboren.
+
+429
+00:40:23,172 --> 00:40:26,713
+Und vielleicht ist deine Rolle in alldem
+viel größer, als du denkst.
+
+430
+00:40:27,172 --> 00:40:28,880
+Und vielleicht...
+
+431
+00:40:28,963 --> 00:40:32,880
+...bin ich nur ein kleiner Teil
+eines riesigen Geschwürs,
+
+432
+00:40:33,422 --> 00:40:36,630
+das viel größer ist,
+als wir uns alle vorstellen können.
+
+433
+00:40:41,088 --> 00:40:43,713
+-Das hat schon mal jemand zu mir gesagt.
+-Wer?
+
+434
+00:40:44,922 --> 00:40:46,213
+Ich.
+
+435
+00:40:50,838 --> 00:40:52,463
+Gott irrt sich nicht.
+
+436
+00:40:53,130 --> 00:40:54,713
+Er hat einen Plan.
+
+437
+00:40:55,797 --> 00:40:57,380
+Für jeden von uns.
+
+438
+00:40:58,172 --> 00:40:59,797
+[Haustür fällt ins Schloss.]
+
+439
+00:40:59,880 --> 00:41:01,463
+[Donner]
+
+440
+00:41:08,672 --> 00:41:12,422
+Ich hab lange auf diesen Moment gewartet,
+dass wir uns wiedersehen.
+
+441
+00:41:14,213 --> 00:41:15,630
+Wer bist du?
+
+442
+00:41:16,338 --> 00:41:17,880
+Gehörst du zu Adam?
+
+443
+00:41:17,963 --> 00:41:19,755
+Da draußen gibt es zwei Seiten.
+
+444
+00:41:20,422 --> 00:41:23,963
+Er ist der Schatten, ich folge nicht ihm,
+sondern der Seite des Lichts.
+
+445
+00:41:24,505 --> 00:41:25,963
+Er hat dich angelogen.
+
+446
+00:41:26,338 --> 00:41:27,922
+Er hat dich hierhin geführt,
+
+447
+00:41:28,005 --> 00:41:30,672
+um alles so auszulösen,
+wie es immer passiert ist.
+
+448
+00:41:30,755 --> 00:41:32,422
+Nein, das kann nicht sein.
+
+449
+00:41:33,630 --> 00:41:35,297
+Adam will das auch!
+
+450
+00:41:36,213 --> 00:41:37,838
+Nein, das will er nicht.
+
+451
+00:41:38,755 --> 00:41:41,963
+Er will die Dinge nicht geraderücken,
+er will sie zerstören.
+
+452
+00:41:43,380 --> 00:41:46,797
+Deine Rolle in alldem ist viel größer,
+als du glaubst.
+
+453
+00:41:47,922 --> 00:41:50,672
+Nur du allein
+kannst alldem ein Ende setzen.
+
+454
+00:41:50,755 --> 00:41:52,172
+Was soll das heißen?
+
+455
+00:41:52,255 --> 00:41:56,422
+Wir sind in einem Krieg,
+und du musst ihn gegen dich selber führen.
+
+456
+00:41:57,005 --> 00:41:58,630
+Gegen Adam.
+
+457
+00:41:58,713 --> 00:42:02,088
+Aber wenn es mich nicht gibt,
+wenn ich nicht geboren werde,
+
+458
+00:42:03,047 --> 00:42:05,088
+dann kann es Adam auch nicht geben.
+
+459
+00:42:06,047 --> 00:42:08,172
+Ich hab die Welt ohne dich gesehen.
+
+460
+00:42:09,547 --> 00:42:10,922
+Glaub mir,
+
+461
+00:42:11,838 --> 00:42:13,880
+sie ist nicht das, was du erwartest.
+
+462
+00:42:14,880 --> 00:42:17,422
+Es gibt Momente im Leben,
+da muss man verstehen,
+
+463
+00:42:17,505 --> 00:42:21,505
+dass die Entscheidungen, die man trifft,
+nicht nur einen selbst angehen.
+
+464
+00:42:21,588 --> 00:42:24,047
+Es geht nicht nur um dich und um Mikkel.
+
+465
+00:42:25,255 --> 00:42:27,005
+Es geht um alle.
+
+466
+00:42:27,088 --> 00:42:28,422
+Deine Mutter,
+
+467
+00:42:28,713 --> 00:42:30,463
+deine Freunde,
+
+468
+00:42:31,380 --> 00:42:32,630
+Martha.
+
+469
+00:42:33,338 --> 00:42:35,047
+Du allein kannst sie retten.
+
+470
+00:42:36,922 --> 00:42:38,547
+Was soll das heißen?
+
+471
+00:42:43,630 --> 00:42:45,422
+Wir alle müssen Opfer bringen.
+
+472
+00:42:46,172 --> 00:42:48,588
+Auch dein Vater muss Opfer bringen.
+
+473
+00:42:48,672 --> 00:42:50,797
+[beklemmende Musik]
+
+474
+00:42:57,588 --> 00:42:59,422
+[Michael] Es ist in Ordnung.
+
+475
+00:43:04,630 --> 00:43:06,463
+[Donnergrollen]
+
+476
+00:44:08,922 --> 00:44:10,547
+[Donner]
+
+477
+00:44:16,338 --> 00:44:18,338
+Ist das jetzt die Apokalypse?
+
+478
+00:44:19,505 --> 00:44:21,130
+[Donner]
+
+479
+00:44:26,130 --> 00:44:28,005
+Schon ein bisschen enttäuschend.
+
+480
+00:44:28,463 --> 00:44:30,880
+Ich hab's mir
+irgendwie lauter vorgestellt.
+
+481
+00:44:31,838 --> 00:44:33,255
+Greller.
+
+482
+00:44:43,088 --> 00:44:45,922
+Wenn morgen die Welt untergeht
+und alles neu beginnt...
+
+483
+00:44:48,713 --> 00:44:50,422
+Was würdest du dir wünschen?
+
+484
+00:44:53,213 --> 00:44:54,838
+Eine Welt ohne Winden.
+
+485
+00:45:01,172 --> 00:45:02,463
+Und du?
+
+486
+00:45:02,547 --> 00:45:05,380
+[Lied: "The Twisted Olive Branch"
+von Asaf Avidan]
+
+487
+00:45:05,463 --> 00:45:07,172
+♪ <i>Love is deep</i> ♪
+
+488
+00:45:09,755 --> 00:45:11,672
+[Donner]
+
+489
+00:45:16,963 --> 00:45:20,255
+♪ <i>With the sound of a thousand waves</i> ♪
+
+490
+00:45:20,338 --> 00:45:22,338
+♪ <i>Hit the shore</i> ♪
+
+491
+00:45:25,797 --> 00:45:30,505
+♪ <i>Love is black</i> ♪
+
+492
+00:45:31,755 --> 00:45:37,172
+♪ <i>The darkest raven will crawl</i> ♪
+
+493
+00:45:39,088 --> 00:45:44,838
+♪ <i>With the pain</i>
+<i>Of a thousand black feathers</i> ♪
+
+494
+00:45:46,713 --> 00:45:49,047
+♪ <i>And the hate for a dove</i> ♪
+
+495
+00:45:53,797 --> 00:45:57,130
+♪ <i>Fly, black raven!</i> ♪
+
+496
+00:45:57,213 --> 00:46:01,963
+♪ <i>My heart's an open hatch</i> ♪
+
+497
+00:46:02,047 --> 00:46:06,422
+♪ <i>Oh, fly, black raven!</i> ♪
+
+498
+00:46:31,088 --> 00:46:35,880
+♪ <i>Hope is small</i> ♪
+
+499
+00:46:36,713 --> 00:46:42,880
+♪ <i>The smallest light beam will come</i> ♪
+
+500
+00:46:43,880 --> 00:46:49,755
+♪ <i>With the dance</i>
+<i>Of a thousand flakes of dust</i> ♪
+
+501
+00:46:52,422 --> 00:46:56,213
+♪ <i>Hope is wrong</i> ♪
+
+502
+00:46:57,922 --> 00:47:03,755
+♪ <i>A weary sailor will crawl</i> ♪
+
+503
+00:47:04,963 --> 00:47:10,588
+♪ <i>With the hate</i>
+<i>Of a thousand black stones</i> ♪
+
+504
+00:47:12,088 --> 00:47:15,255
+♪ <i>And a prayer for more</i> ♪
+
+505
+00:47:18,922 --> 00:47:22,005
+♪ <i>Fly, black raven!</i> ♪
+
+506
+00:47:22,088 --> 00:47:26,463
+♪ <i>My heart an open hatch</i> ♪
+
+507
+00:47:26,547 --> 00:47:30,422
+♪ <i>Oh, fly, black raven!</i> ♪
+
+508
+00:47:32,380 --> 00:47:35,255
+♪ <i>Come back, raven!</i> ♪
+
+509
+00:47:35,797 --> 00:47:38,880
+♪ <i>Twist your twisted leg</i> ♪
+
+510
+00:47:38,963 --> 00:47:43,672
+♪ <i>Upon that twisted olive branch</i> ♪
+
+511
+00:47:49,880 --> 00:47:51,713
+[sanft-melancholische Musik]
+
+512
+00:48:03,380 --> 00:48:06,880
+♪ <i>Fly, black raven!</i> ♪
+
+513
+00:48:06,963 --> 00:48:13,005
+♪ <i>My heart an open hatch</i> ♪
+
+514
+00:48:13,088 --> 00:48:17,672
+♪ <i>Oh, fly, black raven!</i> ♪
+
+515
+00:48:20,047 --> 00:48:22,963
+♪ <i>Twist your twisted leg</i> ♪
+
+516
+00:48:23,047 --> 00:48:28,588
+♪ <i>Upon that twisted olive branch</i> ♪
+
+517
+00:48:39,172 --> 00:48:40,838
+[Donner]
+
+518
+00:49:10,088 --> 00:49:12,088
+[schwermütige Musik]
+
+519
+00:49:17,963 --> 00:49:19,338
+[Michael] <i>"Lieber Jonas,</i>
+
+520
+00:49:20,088 --> 00:49:24,005
+<i>wenn du das liest, ist alles bereits</i>
+<i>unwiederbringlich geschehen.</i>
+
+521
+00:49:24,547 --> 00:49:26,797
+<i>Es kann nicht mehr geändert werden.</i>
+
+522
+00:49:27,838 --> 00:49:30,713
+<i>Ich hätte dir die Dinge</i>
+<i>sehr gerne früher erklärt,</i>
+
+523
+00:49:32,172 --> 00:49:35,922
+<i>aber ich hoffe, wenn du verstanden hast,</i>
+<i>wie alles zusammenhängt,</i>
+
+524
+00:49:36,005 --> 00:49:38,213
+<i>wirst du meine Entscheidung verstehen.</i>
+
+525
+00:49:39,380 --> 00:49:41,463
+<i>Die Wahrheit ist ein seltsames Ding.</i>
+
+526
+00:49:42,713 --> 00:49:45,047
+<i>Man kann versuchen, sie zu unterdrücken,</i>
+
+527
+00:49:45,463 --> 00:49:48,338
+<i>aber sie findet immer</i>
+<i>ihren Weg an die Oberfläche.</i>
+
+528
+00:49:50,088 --> 00:49:53,422
+<i>Wir machen eine Lüge zu unserer Wahrheit,</i>
+<i>um zu überleben.</i>
+
+529
+00:49:54,713 --> 00:49:56,297
+<i>Versuchen, zu vergessen.</i>
+
+530
+00:49:57,005 --> 00:49:58,505
+<i>Bis es nicht mehr geht.</i>
+
+531
+00:49:59,630 --> 00:50:03,130
+<i>Wir kennen nicht einmal</i>
+<i>die Hälfte der Mysterien dieser Welt.</i>
+
+532
+00:50:04,338 --> 00:50:06,505
+<i>Wir sind Wanderer in der Dunkelheit."</i>
+
+533
+00:50:10,672 --> 00:50:12,505
+[Tür wird geöffnet.]
+
+534
+00:50:16,797 --> 00:50:18,588
+Du hättest es ihm sagen können,
+
+535
+00:50:19,213 --> 00:50:22,505
+hättest ihm sagen können,
+was seine Aufgabe in alldem ist,
+
+536
+00:50:22,588 --> 00:50:25,088
+auf welchen Weg du ihn wirklich schickst.
+
+537
+00:50:27,463 --> 00:50:30,880
+Nicht mehr lange,
+dann beginnt der letzte Zyklus.
+
+538
+00:50:36,088 --> 00:50:38,380
+[angespannte Musik]
+
+539
+00:50:39,130 --> 00:50:41,922
+[Frau] Wir alle müssen Opfer bringen,
+Magnus.
+
+540
+00:50:45,422 --> 00:50:47,088
+[Rauschen]
+
+541
+00:50:48,463 --> 00:50:50,463
+[elektronisches Blubbern]
+

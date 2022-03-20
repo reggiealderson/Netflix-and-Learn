@@ -1,0 +1,22 @@
+body {
+    background-color: #fff;
+}
+
+.font-title {
+    font-family: 'Poppins', sans-serif !important;
+}
+.font-body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+.text-bold {
+    font-weight: normal !important;
+}
+.text-bold {
+    font-weight: bold !important;
+}
+
+.phrases-list {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
