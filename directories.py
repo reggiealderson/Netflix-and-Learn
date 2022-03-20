@@ -1,7 +1,7 @@
 def get_directory(language, show, filetype):
 
     show_u = show.replace(" ", "_")
-    direc = f"./{language}/{filetype}/{show_u}__show"
+    direc = f"{language}/{filetype}/{show_u}__show"
 
     return str(direc)
 
