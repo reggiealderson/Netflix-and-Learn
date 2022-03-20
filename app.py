@@ -79,6 +79,7 @@ if generate_button or st.session_state['button_clicked'] == True:
             return main_df
         
         main_df = generate_main_df(lang_selec, show_selec, ngram_selec, phrase_selec)
+        main_df = main_df.sort_values(by=['Episode'])
     
     output_format_selec = st.radio("Output format", ('List', 'Spreadsheet'), on_change = callback)
 
