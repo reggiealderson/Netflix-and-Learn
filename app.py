@@ -10,8 +10,9 @@ from cssactivate import local_css
 from PIL import Image
 import re
 from directories import get_directory, get_main_show_image
+from languagemodels import get_translation
 
-#Initialise state -- for when user clicks 'Start'
+#Initialise state -- for when user clicks 'Generate phrases'
 if 'button_clicked' not in st.session_state:
     st.session_state['button_clicked'] = False
 
@@ -20,12 +21,6 @@ def callback():
 
 def callback_revert():
     st.session_state['button_clicked'] = False
-
-# @st.cache(show_spinner=False)  # 👈 This function will be cached
-# def generate_main_df(language, show, words_per_ngram, ngrams_per_episode):
-#     ''' Generates a dataframe based on the users selections in the app '''
-#     main_df = analyser(language, show, words_per_ngram, ngrams_per_episode)
-#     return main_df
 
 st.set_page_config(
     page_title="Netflix & Learn",
@@ -53,22 +48,10 @@ with col1:
 
     generate_button = st.button('Start Netflix & Learning!', on_click = callback)
 
-# col1a, col2a, col3a = st.columns([2, 2, 7])
-# with col1a:
-#     generate_button = st.button('Generate phrases to learn!')
-# with col2a:
-#     check_df = st.checkbox("Include a dataframe")
-
-
 st.markdown(
     "<hr />",
     unsafe_allow_html=True )
 
-
-# if generate_button:
-#     st.session_state['button_clicked'] = True
-
-    # st.markdown("**Generate phrases for:** " + show_selec)
 
 if generate_button or st.session_state['button_clicked'] == True:
     with st.spinner(f"Generating phrases for {show_selec}"):
@@ -103,9 +86,6 @@ if generate_button or st.session_state['button_clicked'] == True:
                 episode_image_dir = get_directory(lang_selec, show_selec, "images")
                 episode_image = get_main_show_image(episode_image_dir, show_selec)
                 st.image(episode_image, width=225)
-                # local_css("asset/css/style.css")
-                # episode_image = Image.open("images/babylonberlin.jpg")
-                # # episode_image.thumbnail(128, 128)
 
             with col2a:
                 phrases_list = list(episode_df['Phrase'])
@@ -150,11 +130,14 @@ if generate_button or st.session_state['button_clicked'] == True:
                     phrase_counter += 1
                     st.markdown(phrase_description)
 
+                    dialogue_translated = get_translation(lang_selec, phrase_in_row_dialogue_2)
+                    with st.expander("Dialogue translation", expanded=False):
+                        st.markdown(dialogue_translated, unsafe_allow_html=True)
+
     elif output_format_selec == 'Spreadsheet':
         main_df_short = main_df.drop(['Phrase rank', 'Subtitle shortened'], axis=1)
         gb = GridOptionsBuilder.from_dataframe(main_df_short, enableValue=True)
         gb.configure_pagination()
-        # gb.configure_selection("single")
         gridOptions = gb.build()
         
         AgGrid(main_df_short, gridOptions=gridOptions, enable_enterprise_modules=True, fit_columns_on_grid_load = True, height = 350)

@@ -1,13 +1,13 @@
 streamlit==1.4.0
 streamlit-aggrid==0.2.3.post2
-base58==2.1.1
-pysrt==1.1.2
 numpy==1.20.3
 pandas==1.2.4
 regex==2021.7.6
 textacy==0.11.0
 spacy==3.0.6
 spacy-legacy==3.0.5
+googletrans==3.0.0
+textblob==0.17.1
 iteration-utilities==0.11.0
 de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.0.0/de_core_news_sm-3.0.0-py3-none-any.whl
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl

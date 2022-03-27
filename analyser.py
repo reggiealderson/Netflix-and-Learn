@@ -11,6 +11,8 @@ from os.path import isfile, join, isdir
 
 from directories import get_directory
 
+from languagemodels import get_lang_model
+
 FMT = '%H:%M:%S,%f' 
 
 def generate_doc(language, show, chosen_dir, show_files, textacy_lang):
@@ -338,11 +340,7 @@ def generate_full_dialogue(language, show, master_full_dialogue_context_pre, all
 def analyser(language, show, words_per_ngram, ngrams_per_episode):
     ''' Main function that brings all the other functions together and generates a final dataframe '''
 
-    ## The following needs to become dynamic when there are multiple languages available to select from
-    if language == 'German':
-        nlp = spacy.load("de_core_news_sm")
-        de = textacy.load_spacy_lang("de_core_news_sm", disable=("parser",))
-        textacy_lang = de
+    textacy_lang = get_lang_model(language)
 
     chosen_dir = get_directory(language, show, filetype="Docs")
     show_files = [fl for fl in listdir(chosen_dir) if isfile(join(chosen_dir, fl))]
