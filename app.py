@@ -11,6 +11,9 @@ from PIL import Image
 import re
 from directories import get_directory, get_main_show_image
 from languagemodels import get_translation
+from annotated_text import annotated_text
+
+from postagger import pos_tag_colours
 
 #Initialise state -- for when user clicks 'Generate phrases'
 if 'button_clicked' not in st.session_state:
@@ -21,6 +24,7 @@ def callback():
 
 def callback_revert():
     st.session_state['button_clicked'] = False
+
 
 st.set_page_config(
     page_title="Netflix & Learn",
@@ -48,6 +52,7 @@ with col1:
 
     generate_button = st.button('Start Netflix & Learning!', on_click = callback)
 
+
 st.markdown(
     "<hr />",
     unsafe_allow_html=True )
@@ -68,7 +73,7 @@ if generate_button or st.session_state['button_clicked'] == True:
 
     if output_format_selec == 'List':
 
-        colep1, colep2 = st.columns([6, 4])
+        colep1, colep2 = st.columns([4, 4])
         
         with colep1:
             episode_selection = st.selectbox(
@@ -94,7 +99,6 @@ if generate_button or st.session_state['button_clicked'] == True:
                 st.markdown(
                     " ".join([
                         "<div>",
-                        # f"<h3>{episode_selection}</h3>",
                         "</div>",
                         '<div><div></div></div>',
                         "<h2>Phrases</h2>",
@@ -105,8 +109,14 @@ if generate_button or st.session_state['button_clicked'] == True:
                     unsafe_allow_html=True
                 )
 
-            col1b, col2b = st.columns([6, 4])
+            col1b, col2b = st.columns([8, 2])
             with col1b:
+
+                st.text("")
+                annotate_selec = st.checkbox('Include annotated categories (part of speech tags) for each word in a phrase', value=False)
+                if annotate_selec:
+                    st.write("[Understanding part of speech tags](https://universaldependencies.org/u/pos/)")
+
                 phrase_counter = 1
                 for index, row in episode_df.iterrows():
                     phrase_in_row_text = row['Phrase']
@@ -134,6 +144,21 @@ if generate_button or st.session_state['button_clicked'] == True:
                     with st.expander("Dialogue translation", expanded=False):
                         st.markdown(dialogue_translated, unsafe_allow_html=True)
 
+                    if annotate_selec:
+                        tokx = row['Tokens']
+                        tagx = row['Tags']  
+                        
+                        pos_tag_line_items = []
+                        for x, y in zip(tokx, tagx):
+                            if y != 'PUNCT' and y != 'X' and y != 'SPACE':
+                                line_item = (f' {x}', f'{y}', f'{pos_tag_colours[y]}')
+                            else:
+                                line_item = f"{x}"
+                            pos_tag_line_items.append(line_item)
+                            
+                        annotated_text(*pos_tag_line_items)
+
+
     elif output_format_selec == 'Spreadsheet':
         main_df_short = main_df.drop(['Phrase rank', 'Subtitle shortened'], axis=1)
         gb = GridOptionsBuilder.from_dataframe(main_df_short, enableValue=True)
@@ -141,4 +166,5 @@ if generate_button or st.session_state['button_clicked'] == True:
         gridOptions = gb.build()
         
         AgGrid(main_df_short, gridOptions=gridOptions, enable_enterprise_modules=True, fit_columns_on_grid_load = True, height = 350)
+
 
