@@ -7,8 +7,6 @@ regex==2021.7.6
 textacy==0.11.0
 click==7.1.2
 exit==2020.12.3
-spacy==3.0.0
-spacy-legacy==3.0.9
 googletrans==3.0.0
 textblob==0.17.1
 iteration-utilities==0.11.0

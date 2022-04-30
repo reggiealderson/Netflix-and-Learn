@@ -1,6 +1,5 @@
 import textacy 
 import pandas as pd
-import spacy
 import numpy as np
 import math
 from itertools import groupby
