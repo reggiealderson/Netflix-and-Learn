@@ -5,11 +5,14 @@ import numpy as np
 import math
 from itertools import groupby
 from datetime import datetime
+import ast # for extracting items in a list (that is within a string)
+from postagger import annotate_prepare #list of colour codes I created for the part of speech tag annotations in Streamlit
 
 from os import listdir
 from os.path import isfile, join, isdir
 
 from directories import get_directory
+from languagemodels import get_lang_model
 
 FMT = '%H:%M:%S,%f' 
 
@@ -18,7 +21,7 @@ def generate_doc(language, show, chosen_dir, show_files, textacy_lang):
 
     doc_list = []
     for file1 in show_files:
-        fff = open(f"{chosen_dir}/{file1}", "r")
+        fff = open(f"{chosen_dir}/{file1}", "r", encoding="iso-8859-15")
         episodetxt = fff.read() 
         doc_list.append(episodetxt)
         fff.close()
@@ -43,7 +46,7 @@ def generate_ngrams_starter_set(words_per_ngram, ngrams_per_episode, doc, number
 
     ngrams_per_ep = ngrams_per_episode
     # generating a fixed length list:
-    ngrams_starter_set_multiplier = 2.75 # little bit of magic here. I tinkered with this figure to get it to generate a list with an appropriate length to later loop through
+    ngrams_starter_set_multiplier = 2.6 # little bit of magic here. I tinkered with this figure to get it to generate a list with an appropriate length to later loop through
     ideal_ngram_starter_set_len = round(number_of_episodes * (math.log((ngrams_per_ep+1), 2) * ngrams_starter_set_multiplier) * ngrams_starter_set_multiplier)
 
     ngrams_ca_sorted_counts = [len(list(group)) for key, group in groupby(ngrams_ca_sorted)] # returns the count for each ngram (still sorted in alphabetical order)
@@ -65,20 +68,16 @@ def generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_ep,
     The goal is to find a specified amount of unique ngrams for each episode. ngrams_found_count keeps track of this amount when iterating through each episode. '''
 
     ngrams_used = []
-    all_subtitles = []
     ngrams_found_counter = []
     ngrams_found_list = []
     ep_name_list = []
-    all_start_times = []
 
     for file2 in show_files_csv:
         episode_path = f"{chosen_dir_csv}/{file2}"
         episode = pd.read_csv(episode_path)
-        episode_subtitles = []
         subtitles_found = []
         ngrams_found = []
         ngrams_found_count = 0
-        episode_start_times = []
         available_ngrams_v2 = [x for x in ideal_ngram_starter_set if x not in ngrams_used]
 
         for ngram_x in available_ngrams_v2:
@@ -93,12 +92,7 @@ def generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_ep,
                 subtitles_found.append(subtitle_found)
                 ngram_subtitles.append(subtitle_found)
                 ngrams_found_count += 1
-                episode_subtitles.append(ngram_subtitles)
 
-                start_time_found = df_check['Start'].values[0]
-                start_time_found = datetime.strptime(start_time_found, FMT)
-                start_time_found = str(start_time_found.time())[0:8]
-                episode_start_times.append(start_time_found)
                 
             if len(df_check) > 1:
                 ngrams_used.append(ngram_x)
@@ -109,12 +103,7 @@ def generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_ep,
                 ngram_subtitles.append(subtitle_found)
 
                 ngrams_found_count += 1
-                episode_subtitles.append(ngram_subtitles)
 
-                start_time_found = df_check['Start'].values[0]
-                start_time_found = datetime.strptime(start_time_found, FMT)
-                start_time_found = str(start_time_found.time())[0:8]
-                episode_start_times.append(start_time_found)
                 
             if ngrams_found_count == ngrams_per_ep:
                 break
@@ -131,12 +120,7 @@ def generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_ep,
                     subtitles_found.append(subtitle_found)
                     ngram_subtitles.append(subtitle_found)
                     ngrams_found_count += 1
-                    episode_subtitles.append(ngram_subtitles)
 
-                    start_time_found = df_check['Start'].values[0]
-                    start_time_found = datetime.strptime(start_time_found, FMT)
-                    start_time_found = str(start_time_found.time())[0:8]
-                    episode_start_times.append(start_time_found)
                 
                 if len(df_check) > 1:
                     ngrams_found.append(repeat_ngram)
@@ -145,18 +129,11 @@ def generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_ep,
                     subtitles_found.append(subtitle_found)
                     ngram_subtitles.append(subtitle_found)
                     ngrams_found_count += 1
-                    episode_subtitles.append(ngram_subtitles)
 
-                    start_time_found = df_check['Start'].values[0]
-                    start_time_found = datetime.strptime(start_time_found, FMT)
-                    start_time_found = str(start_time_found.time())[0:8]
-                    episode_start_times.append(start_time_found)
 
                 if ngrams_found_count == ngrams_per_ep:
                     break
 
-        all_subtitles.append(episode_subtitles)
-        all_start_times.append(episode_start_times)
         ngrams_found_counter.append(ngrams_found_count)
         ngrams_found_list.append(ngrams_found)
 
@@ -165,10 +142,8 @@ def generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_ep,
 
     episode_names_flat = [(x.replace("_", " ")).replace(".csv", "") for x in ep_name_list]
     ngrams_found_list_flat = [item for sublist in ngrams_found_list for item in sublist]
-    all_subtitles_found_list_flat = [item[0] for sublist in all_subtitles for item in sublist]
-    all_start_times_found_list_flat = [item for sublist in all_start_times for item in sublist]
 
-    return episode_names_flat, ngrams_found_list, ngrams_found_list_flat, ngrams_used, all_subtitles, all_subtitles_found_list_flat, all_start_times_found_list_flat
+    return episode_names_flat, ngrams_found_list, ngrams_found_list_flat, ngrams_used
 
 
 def generate_ngram_counts(language, show, ngrams_found_list, ngrams_used, ngrams_ca_sorted_dict_desc_vals, chosen_dir_csv, show_files_csv):
@@ -284,6 +259,41 @@ def generate_pre_dialogue(language, show, ngrams_found_list, chosen_dir_csv, sho
     return master_full_dialogue_context_pre
 
 
+def generate_actual_dialogue(language, show, ngrams_found_list, chosen_dir_csv, show_files_csv):
+    ''' Extracts the appropriate dialogue that exists after an ngram occurs, based on timestamps'''
+
+    # FMT = '%H:%M:%S,%f'
+    master_full_dialogue_context_actual = []
+    all_subtitles = []
+    all_start_times = []
+    for file2, ngram_collection in zip(show_files_csv, ngrams_found_list):
+        episode_subtitles = []
+        episode_dialogue_context_actual = []
+        episode_start_times = []
+        episode_path = f"{chosen_dir_csv}/{file2}"
+        episode = pd.read_csv(episode_path)
+        for ng in ngram_collection:
+            ngram_subtitles = []
+            ngram_found_row = episode[episode['Dialogue_lower'].str.contains(ng.lower())]
+            ngram_actual = ngram_found_row['Dialogue'].values[0]
+            episode_dialogue_context_actual.append(ngram_actual)
+            ngram_subtitles.append(ngram_actual)
+            episode_subtitles.append(ngram_subtitles)
+
+            start_time_found = ngram_found_row['Start'].values[0]
+            start_time_found = datetime.strptime(start_time_found, FMT)
+            start_time_found = str(start_time_found.time())[0:8]
+            episode_start_times.append(start_time_found)
+
+        all_subtitles.append(episode_subtitles)
+        master_full_dialogue_context_actual.append(episode_dialogue_context_actual)
+        all_start_times.append(episode_start_times)
+    
+    all_subtitles_found_list_flat = [item[0] for sublist in all_subtitles for item in sublist]
+    all_start_times_found_list_flat = [item for sublist in all_start_times for item in sublist]
+
+    return master_full_dialogue_context_actual, all_subtitles, all_subtitles_found_list_flat, all_start_times_found_list_flat
+
 def generate_post_dialogue(language, show, ngrams_found_list, chosen_dir_csv, show_files_csv):
     ''' Extracts the appropriate dialogue that exists after an ngram occurs, based on timestamps'''
 
@@ -316,16 +326,16 @@ def generate_post_dialogue(language, show, ngrams_found_list, chosen_dir_csv, sh
     return master_full_dialogue_context_post
 
 
-def generate_full_dialogue(language, show, master_full_dialogue_context_pre, all_subtitles, master_full_dialogue_context_post):
+def generate_full_dialogue(language, show, master_full_dialogue_context_pre, master_full_dialogue_context_actual, master_full_dialogue_context_post):
     ''' Glues the appropriate dialogue including and surrounding the ngram together '''
 
     curated_all_dialogues = []
-    for pre, actual, post in zip(master_full_dialogue_context_pre,all_subtitles,master_full_dialogue_context_post):
+    for pre, actual, post in zip(master_full_dialogue_context_pre,master_full_dialogue_context_actual,master_full_dialogue_context_post):
         curated_episode_dialogues = []
         for pre_a, actual_a, post_a in zip(pre, actual, post):
             joined_pre = ' '.join(pre_a)
             joined_post = ' '.join(post_a)
-            full_dialogue = f"...{joined_pre} {actual_a[0]} {joined_post}..."
+            full_dialogue = f"...{joined_pre} {actual_a} {joined_post}..."
             curated_episode_dialogues.append(full_dialogue)
         curated_all_dialogues.append(curated_episode_dialogues)
 
@@ -333,16 +343,33 @@ def generate_full_dialogue(language, show, master_full_dialogue_context_pre, all
 
     return curated_all_dialogues_flat
 
+def pos_tag_get (ngrams_found_list, chosen_dir_csv, show_files_csv):
+    ''' Consolidates the part of speech tags for each token in a dialogue string '''
+    
+    all_subtitles_tokens = []
+    all_subtitles_pos_tags = []
+    for file2, ngram_collection in zip(show_files_csv, ngrams_found_list):
+        episode_path = f"{chosen_dir_csv}/{file2}"
+        episode = pd.read_csv(episode_path)
+        for ng in ngram_collection:
+            ngram_found_row = episode[episode['Dialogue_lower'].str.contains(ng.lower())]
+            ngram_subtitles_tokens = ngram_found_row['Dialogue_Tokens_Text'].values[0]
+            ngram_subtitles_pos_tags = ngram_found_row['Dialogue_Tokens_POS_Tags'].values[0]
+            all_subtitles_tokens.append(ngram_subtitles_tokens)
+            all_subtitles_pos_tags.append(ngram_subtitles_pos_tags)
+
+    all_subtitles_tokens_flat = [ast.literal_eval(item) for item in all_subtitles_tokens]
+    all_subtitles_pos_tags_flat = [ast.literal_eval(item) for item in all_subtitles_pos_tags]
+
+    # pos_tag_line_items_flat = annotate_prepare(all_subtitles_tokens_flat, all_subtitles_pos_tags_flat)
+
+    return all_subtitles_tokens_flat, all_subtitles_pos_tags_flat
 
 
 def analyser(language, show, words_per_ngram, ngrams_per_episode):
     ''' Main function that brings all the other functions together and generates a final dataframe '''
 
-    ## The following needs to become dynamic when there are multiple languages available to select from
-    if language == 'German':
-        nlp = spacy.load("de_core_news_sm")
-        de = textacy.load_spacy_lang("de_core_news_sm", disable=("parser",))
-        textacy_lang = de
+    textacy_lang = get_lang_model(language)
 
     chosen_dir = get_directory(language, show, filetype="Docs")
     show_files = [fl for fl in listdir(chosen_dir) if isfile(join(chosen_dir, fl))]
@@ -353,13 +380,18 @@ def analyser(language, show, words_per_ngram, ngrams_per_episode):
 
     ideal_ngram_starter_set, ngrams_ca_sorted_dict_desc_vals = generate_ngrams_starter_set(words_per_ngram, ngrams_per_episode, doc, number_of_episodes)
 
-    episode_names_flat, ngrams_found_list, ngrams_found_list_flat, ngrams_used, all_subtitles, all_subtitles_found_list_flat, all_start_times_found_list_flat = generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_episode, chosen_dir_csv, show_files_csv)
+    episode_names_flat, ngrams_found_list, ngrams_found_list_flat, ngrams_used = generate_ngrams_list(language, show, ideal_ngram_starter_set, ngrams_per_episode, chosen_dir_csv, show_files_csv)
 
     eps_per_ngrams_master_flat, ngram_counts_master_flat, ngram_ranks_master_flat = generate_ngram_counts(language, show, ngrams_found_list, ngrams_used, ngrams_ca_sorted_dict_desc_vals, chosen_dir_csv, show_files_csv)
 
     master_full_dialogue_context_pre = generate_pre_dialogue(language, show, ngrams_found_list, chosen_dir_csv, show_files_csv)
+    master_full_dialogue_context_actual, all_subtitles, all_subtitles_found_list_flat, all_start_times_found_list_flat = generate_actual_dialogue(language, show, ngrams_found_list, chosen_dir_csv, show_files_csv)
     master_full_dialogue_context_post = generate_post_dialogue(language, show, ngrams_found_list, chosen_dir_csv, show_files_csv)
-    curated_all_dialogues_flat = generate_full_dialogue(language, show, master_full_dialogue_context_pre, all_subtitles, master_full_dialogue_context_post)
+    curated_all_dialogues_flat = generate_full_dialogue(language, show, master_full_dialogue_context_pre, master_full_dialogue_context_actual, master_full_dialogue_context_post)
+
+    # pos_tag_line_items_flat = pos_tag_get(all_subtitles_tokens, all_subtitles_pos_tags)
+
+    all_subtitles_tokens_flat, all_subtitles_pos_tags_flat = pos_tag_get(ngrams_found_list, chosen_dir_csv, show_files_csv)
 
     final_dataframe = pd.DataFrame(
         {'Episode': episode_names_flat,
@@ -369,7 +401,10 @@ def analyser(language, show, words_per_ngram, ngrams_per_episode):
         '# of occurences': ngram_counts_master_flat,
         '# of episodes': eps_per_ngrams_master_flat,
         'Subtitle shortened': all_subtitles_found_list_flat,
-        'Subtitle start time': all_start_times_found_list_flat
+        'Subtitle start time': all_start_times_found_list_flat,
+        'Tokens': all_subtitles_tokens_flat,
+        'Tags': all_subtitles_pos_tags_flat
+        # 'Formated annotated pos tags': pos_tag_line_items_flat
         })
 
     return final_dataframe
